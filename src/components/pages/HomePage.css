@@ -1,0 +1,10 @@
+.home-page {
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  transition: background-color 1.5s ease;
+}
+
+.home-page .tab-container {
+  max-width: 1600px;
+}
